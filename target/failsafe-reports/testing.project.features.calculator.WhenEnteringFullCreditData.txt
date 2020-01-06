@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: testing.project.features.calculator.WhenEnteringFullCreditData
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 26.71 s <<< FAILURE! - in testing.project.features.calculator.WhenEnteringFullCreditData
+shouldBeAbleToSeeSiteCategoryTitle[0](testing.project.features.calculator.WhenEnteringFullCreditData)  Time elapsed: 8.565 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a string containing "4 609"
+     but: was "92 197 ₽"
+	at testing.project.features.calculator.WhenEnteringFullCreditData.shouldBeAbleToSeeSiteCategoryTitle(WhenEnteringFullCreditData.java:48)
+
+shouldBeAbleToSeeSiteCategoryTitle[1](testing.project.features.calculator.WhenEnteringFullCreditData)  Time elapsed: 8.107 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a string containing "16 287"
+     but: was "162 876 ₽"
+	at testing.project.features.calculator.WhenEnteringFullCreditData.shouldBeAbleToSeeSiteCategoryTitle(WhenEnteringFullCreditData.java:48)
+
+shouldBeAbleToSeeSiteCategoryTitle[2](testing.project.features.calculator.WhenEnteringFullCreditData)  Time elapsed: 9.116 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a string containing "9 666"
+     but: was "64 440 ₽"
+	at testing.project.features.calculator.WhenEnteringFullCreditData.shouldBeAbleToSeeSiteCategoryTitle(WhenEnteringFullCreditData.java:48)
+

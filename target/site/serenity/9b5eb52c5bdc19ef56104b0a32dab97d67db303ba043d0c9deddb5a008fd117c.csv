@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When entering invalid credit sum","Should be able to see default cost","FAILURE","2020-01-06T14:51:32.100209+01:00[Europe/Prague]","0.0","12.7"

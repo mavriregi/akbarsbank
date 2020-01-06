@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testing.project.features.navigation.WhenClickingOnLogo
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.886 s - in testing.project.features.navigation.WhenClickingOnLogo

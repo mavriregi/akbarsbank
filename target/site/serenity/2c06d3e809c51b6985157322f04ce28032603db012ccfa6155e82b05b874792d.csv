@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When entering empty required value","Should be able to see field error status","SUCCESS","2020-01-06T14:50:25.42251+01:00[Europe/Prague]","0.0","7.44"

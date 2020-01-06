@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testing.project.features.order.WhenConfirmingCardOrderStepWithInvalidData
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.869 s - in testing.project.features.order.WhenConfirmingCardOrderStepWithInvalidData

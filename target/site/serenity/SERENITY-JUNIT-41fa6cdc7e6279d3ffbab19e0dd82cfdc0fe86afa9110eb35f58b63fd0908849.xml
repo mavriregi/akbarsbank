@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="3" name="testing.project.features.calculator.WhenEnteringFullCreditData" skipped="0" tests="3" time="25.39" timestamp="2020-01-06 02:52:11"><testcase classname="testing.project.features.calculator.WhenEnteringFullCreditData" name="Should be able to see site category title"><failure message="&#10;Expected: a string containing &quot;4 609&quot;&#10;     but: was &quot;92 197 ₽&quot;" type="java.lang.AssertionError">
+Expected: a string containing "4 609"
+     but: was "92 197 ₽"</failure><system-err>
+Expected: a string containing "4 609"
+     but: was "92 197 ₽"
+testing.project.features.calculator.WhenEnteringFullCreditData.shouldBeAbleToSeeSiteCategoryTitle(WhenEnteringFullCreditData.java:48)
+</system-err></testcase></testsuite>

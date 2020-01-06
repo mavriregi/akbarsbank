@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: testing.project.features.navigation.WhenClickingOnOnlineBanking
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.025 s <<< FAILURE! - in testing.project.features.navigation.WhenClickingOnOnlineBanking
+shouldBeAbleToSeeBankingPage(testing.project.features.navigation.WhenClickingOnOnlineBanking)  Time elapsed: 6.78 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a string containing "https://online.akbars.ru/"
+     but: was "about:blank"
+	at testing.project.features.navigation.WhenClickingOnOnlineBanking.shouldBeAbleToSeeBankingPage(WhenClickingOnOnlineBanking.java:30)
+

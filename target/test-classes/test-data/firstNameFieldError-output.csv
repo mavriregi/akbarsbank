@@ -1,0 +1,5 @@
+firstNameField,firstNameFieldError
+"",Ззаполните поле
+Test,допустимые символы А-Я/,'-'
+123,допустимые символы А-Я/,'-'
+Тест,correct data

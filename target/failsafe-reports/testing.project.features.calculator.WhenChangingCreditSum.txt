@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: testing.project.features.calculator.WhenChangingCreditSum
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 13.754 s <<< FAILURE! - in testing.project.features.calculator.WhenChangingCreditSum
+shouldBeAbleToSeeUpdatedCost[0](testing.project.features.calculator.WhenChangingCreditSum)  Time elapsed: 7.009 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a string containing "8 143"
+     but: was "162 876 ₽"
+	at testing.project.features.calculator.WhenChangingCreditSum.shouldBeAbleToSeeUpdatedCost(WhenChangingCreditSum.java:51)
+
+shouldBeAbleToSeeUpdatedCost[1](testing.project.features.calculator.WhenChangingCreditSum)  Time elapsed: 6.104 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a string containing "16 287"
+     but: was "162 876 ₽"
+	at testing.project.features.calculator.WhenChangingCreditSum.shouldBeAbleToSeeUpdatedCost(WhenChangingCreditSum.java:51)
+

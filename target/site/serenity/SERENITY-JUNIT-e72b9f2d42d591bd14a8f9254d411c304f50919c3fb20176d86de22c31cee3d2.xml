@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="testing.project.features.order.WhenConfirmingCardOrderStepWithInvalidData" skipped="0" tests="1" time="22.59" timestamp="2020-01-06 02:50:33"><testcase classname="testing.project.features.order.WhenConfirmingCardOrderStepWithInvalidData" name="Should not be able to see the second step"/></testsuite>

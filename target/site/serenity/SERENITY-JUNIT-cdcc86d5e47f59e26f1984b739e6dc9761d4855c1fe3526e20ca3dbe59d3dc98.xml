@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="testing.project.features.navigation.WhenClickingOnOnlineBanking" skipped="0" tests="1" time="6.78" timestamp="2020-01-06 02:52:11"><testcase classname="testing.project.features.navigation.WhenClickingOnOnlineBanking" name="Should be able to see banking page"><failure message="&#10;Expected: a string containing &quot;https://online.akbars.ru/&quot;&#10;     but: was &quot;about:blank&quot;" type="java.lang.AssertionError">
+Expected: a string containing "https://online.akbars.ru/"
+     but: was "about:blank"</failure><system-err>
+Expected: a string containing "https://online.akbars.ru/"
+     but: was "about:blank"
+testing.project.features.navigation.WhenClickingOnOnlineBanking.shouldBeAbleToSeeBankingPage(WhenClickingOnOnlineBanking.java:30)
+</system-err></testcase></testsuite>

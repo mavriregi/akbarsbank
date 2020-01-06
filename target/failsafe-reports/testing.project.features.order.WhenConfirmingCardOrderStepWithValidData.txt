@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: testing.project.features.order.WhenConfirmingCardOrderStepWithValidData
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 23.495 s <<< FAILURE! - in testing.project.features.order.WhenConfirmingCardOrderStepWithValidData
+shouldBeAbleToSeeTheSecondStep(testing.project.features.order.WhenConfirmingCardOrderStepWithValidData)  Time elapsed: 20.14 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'window__popup animation_open')]//div[contains(@class, 'title')]/h4"}
+  (Session info: chrome=79.0.3945.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-Regina.local', ip: '10.223.195.32', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.2', java.version: '11.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /var/folders/q0/rf00mq216sn...}, goog:chromeOptions: {debuggerAddress: localhost:52300}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5f630d7fa58c79356c606ffc665cb49e
+*** Element info: {Using=xpath, value=//div[contains(@class, 'window__popup animation_open')]//div[contains(@class, 'title')]/h4}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-Regina.local', ip: '10.223.195.32', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.2', java.version: '11.0.4'
+Driver info: driver.version: unknown
+	at testing.project.features.order.WhenConfirmingCardOrderStepWithValidData.shouldBeAbleToSeeTheSecondStep(WhenConfirmingCardOrderStepWithValidData.java:28)
+

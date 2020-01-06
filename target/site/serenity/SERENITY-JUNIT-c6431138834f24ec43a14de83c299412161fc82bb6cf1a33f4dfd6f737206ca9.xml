@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="testing.project.features.calculator.WhenEnteringInvalidCreditSum" skipped="0" tests="1" time="12.7" timestamp="2020-01-06 02:51:32"><testcase classname="testing.project.features.calculator.WhenEnteringInvalidCreditSum" name="Should be able to see default cost"><failure message="&#10;Expected: a string containing &quot;8 143&quot;&#10;     but: was &quot;81 438 ₽&quot;" type="java.lang.AssertionError">
+Expected: a string containing "8 143"
+     but: was "81 438 ₽"</failure><system-err>
+Expected: a string containing "8 143"
+     but: was "81 438 ₽"
+testing.project.features.calculator.WhenEnteringInvalidCreditSum.shouldBeAbleToSeeDefaultCost(WhenEnteringInvalidCreditSum.java:32)
+</system-err></testcase></testsuite>

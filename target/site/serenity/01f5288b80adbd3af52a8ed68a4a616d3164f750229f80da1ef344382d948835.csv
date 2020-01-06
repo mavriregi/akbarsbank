@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When changing credit term","Should be able to see updated cost","SUCCESS","2020-01-06T14:51:31.900237+01:00[Europe/Prague]","0.0","21.47"
+"When changing site category","Should be able to see category title","SUCCESS","2020-01-06T14:52:41.867783+01:00[Europe/Prague]","0.0","22.15"
+"When clicking on logo","Should be able to see site category title","SUCCESS","2020-01-06T14:53:03.761427+01:00[Europe/Prague]","0.0","20.74"
+"When entering empty required value","Should be able to see field error status","SUCCESS","2020-01-06T14:50:25.42251+01:00[Europe/Prague]","0.0","7.44"
+"When confirming card order step with invalid data","Should not be able to see the second step","SUCCESS","2020-01-06T14:50:33.167482+01:00[Europe/Prague]","0.0","22.59"
